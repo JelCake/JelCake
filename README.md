@@ -11,7 +11,9 @@
   Balancing labs with a deep dive into <strong>Software Architecture & System Internals.</strong>
 </p>
 <br>
+
 ---
+
 <br>
 <h3 align="center"> 💻 Stack </h3>
 <p align="center">Tools I used to create small projects:</p>
@@ -37,7 +39,9 @@
   <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=css3&logoColor=1572B6" />
 </p>
 <br>
+
 ---
+
 <br>
 <h3 align="center"> 📚 Learning Path</h3>
 <p align="center">
@@ -46,7 +50,9 @@
 </p>
 
 <br>
+
 ---
+
 <br>
 <h3 align="center">🌙 Status</h3>
 
