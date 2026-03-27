@@ -46,25 +46,27 @@
 
 
 ---
-
 <h3 align="center">🌙 Status</h3>
 
 <p align="center">
   <img src="https://github.com/JelCake.png" width="100" height="100" style="border-radius: 50%; border: 3px solid #9d4edd;" />
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelCake&layout=compact&hide_border=true&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" style="border-radius: 8px; border: 3px solid #9d4edd; padding: 10px;" />
+</p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelCake&layout=compact&hide_border=true&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" />
-</p>
-<br><br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JelCake&theme=tokyonight&color=9d4edd&area=true&hide_border=true&bg_color=0d1117&height=100" width="" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JelCake&theme=tokyonight&color=9d4edd&area=true&hide_border=true&bg_color=0d1117&height=100" width="100%" alt="Activity Graph" style="border-radius: 8px; border: 3px solid #9d4edd; padding: 10px;" />
 </p>
 
-<br><br> <p align="center">
+<br><br>
+
+<p align="center">
   <strong>Let's connect</strong><br>
   <em>Always down to talk tech or share progress.</em><br><br>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -72,12 +74,11 @@
   <a href="https://github.com/JelCake"><img src="https://img.shields.io/badge/GitHub-9d4edd?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlueW81MHU2Ym02bm5ubGhlb2t3b2lia3YwcmcxYWpyYjlkYW9wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fvUo27LObB7i/giphy.gif" width="60" height="60" alt="The Observer" />
+  <br>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlueW81MHU2Ym02bm5ubGhlb2t3b2lia3YwcmcxYWpyYjlkYW9wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fvUo27LObB7i/giphy.gif" width="60" height="60" style="border-radius: 50%; border: 3px solid #9d4edd; padding: 5px;" alt="The Observer" />
 </p>
 
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3c096c&height=100&section=footer" width="100%" style="display: block; border: none;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3c096c&height=100&section=footer" width="100%" style="display: block; border: none; outline: none;" />
 </p>
