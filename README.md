@@ -1,19 +1,20 @@
 <p align="center">
+
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp0bTI1dmMzOHRnYTQxOGt5b2dsdGl4ZXVxMWJ5NXAwdHV6ZzE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyiufcIwTdF35pNIFS/giphy.gif" width="100%" height="400" style="object-fit: cover; border-radius: 8px;" alt="Pixel City Chill" />
-</p>
+
+</p> 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000000&color=9d4edd&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+JelR." alt="Hello, I'm JelR." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9d4edd&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+JelR.&repeat=false" alt="Hello, I'm JelR." />
 </h2>
-
 <p align="center">
   <em>This is a space to store & track my progress.</em>
 </p>
 
 ---
 
-### 💻 Stack
-<p align="center">Used for small projects and school labs:</p>
+<h3 align="center"> 💻 Stack </h3>
+<p align="center">Used for projects and school labs:</p>
 
 <p align="center">
   <strong>Languages</strong><br>
@@ -23,7 +24,7 @@
 </p>
 
 <p align="center">
-  <strong>Backend</strong><br>
+  <strong>Backend & DB</strong><br>
   <img src="https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=nodedotjs&logoColor=339933" /> 
   <img src="https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=express&logoColor=000000" /> 
   <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=mysql&logoColor=4479A1" /> 
@@ -38,8 +39,10 @@
 
 ---
 
-### 📚 Learning Path
+ <h3 align="center"> 📚 Learning Path</h3>
+
 <p align="center">Topics I am currently looking into:</p>
+
 
 <p align="center">
   <code>Software Engineering</code> · <code>DSA</code> · <code>DBMS</code> · <code>Computer Networks</code><br>
@@ -48,29 +51,38 @@
 
 ---
 
-### 🌙 Station Status
+<h3 align="center">🌙 Status</h3>
+
+
 <p align="center">
-  <img src="https://github.com/JelCake.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #9d4edd;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelCake&layout=compact&hide_border=true&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <strong>Current Proficiency</strong><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelCake&layout=compact&theme=radical&hide_border=true&langs_count=3&count_private=true&include_all_commits=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JelCake&theme=dracula&no-bg=true&column=4&margin-w=15&title=Stars,Commits,Repositories,Followers" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JelCake&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
+  <img src="https://github.com/JelCake.png" width="120" height="120" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
   <strong>Connect with me</strong><br>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   &nbsp;
-  <a href="https://github.com/JelCake"><img src="https://img.shields.io/badge/GitHub-9d4edd?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/JelCake">
+    <img src="https://img.shields.io/badge/GitHub-9d4edd?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlueW81MHU2Ym02bm5ubGhlb2t3b2lia3YwcmcxYWpyYjlkYW9wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fvUo27LObB7i/giphy.gif" width="50" height="50" style="border-radius: 50%" alt="The Observer" />
 </p>
 
 <p align="center">
