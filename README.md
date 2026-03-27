@@ -10,6 +10,7 @@
   <em>Building things at my own pace and documenting the journey.</em><br>
   Balancing labs with a deep dive into <strong>Software Architecture & System Internals.</strong>
 </p>
+
 ---
 
 <h3 align="center"> 💻 Stack </h3>
@@ -70,7 +71,7 @@
   <a href="https://github.com/JelCake"><img src="https://img.shields.io/badge/GitHub-9d4edd?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<br>
+<br><br><br>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlueW81MHU2Ym02bm5ubGhlb2t3b2lia3YwcmcxYWpyYjlkYW9wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fvUo27LObB7i/giphy.gif" width="60" height="60" style="border-radius: 50%; border: 3px solid #9d4edd;" alt="The Observer" />
