@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp0bTI1dmMzOHRnYTQxOGt5b2dsdGl4ZXVxMWJ5NXAwdHV6ZzE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyiufcIwTdF35pNIFS/giphy.gif" width="100%" height="450" style="object-fit: cover; border-radius: 8px;" alt="Pixel City Chill" />
+  <table align="center" style="border-radius: 20px; overflow: hidden; border: none; padding: 0; border-collapse: collapse;">
+    <tr>
+      <td style="border-radius: 20px; overflow: hidden; padding: 0;">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp0bTI1dmMzOHRnYTQxOGt5b2dsdGl4ZXVxMWJ5NXAwdHV6ZzE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyiufcIwTdF35pNIFS/giphy.gif" width="1000" height="450" style="display: block; object-fit: cover;" alt="Pixel City Chill" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <h1 align="center">
@@ -55,13 +61,13 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelCake&layout=compact&hide_border=true&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" style="border-radius: 8px; border: 3px solid #9d4edd; padding: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelCake&layout=compact&hide_border=false&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&bg_color=0d1117&langs_count=6&border_radius=10&border_color=9d4edd" alt="Top Languages" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JelCake&theme=tokyonight&color=9d4edd&area=true&hide_border=true&bg_color=0d1117&height=100" width="100%" alt="Activity Graph" style="border-radius: 8px; border: 3px solid #9d4edd; padding: 10px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JelCake&theme=tokyonight&color=9d4edd&area=true&hide_border=false&bg_color=0d1117&height=100&border=9d4edd&radius=10" width="100%" alt="Activity Graph" />
 </p>
 
 <br><br>
@@ -74,9 +80,16 @@
   <a href="https://github.com/JelCake"><img src="https://img.shields.io/badge/GitHub-9d4edd?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<br>
+
 <p align="center">
-  <br>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlueW81MHU2Ym02bm5ubGhlb2t3b2lia3YwcmcxYWpyYjlkYW9wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fvUo27LObB7i/giphy.gif" width="60" height="60" style="border-radius: 50%; border: 3px solid #9d4edd; padding: 5px;" alt="The Observer" />
+  <table align="center" style="border-radius: 50%; overflow: hidden; border: 3px solid #9d4edd; padding: 0; line-height: 0;">
+    <tr>
+      <td align="center" style="border-radius: 50%; overflow: hidden; padding: 0;">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlueW81MHU2Ym02bm5ubGhlb2t3b2lia3YwcmcxYWpyYjlkYW9wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fvUo27LObB7i/giphy.gif" width="60" height="60" style="display: block; border-radius: 50%;" alt="The Observer" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center" style="margin: 0; padding: 0;">
