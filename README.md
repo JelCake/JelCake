@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQzbnFxeWZjZzA5ZXRrM2IyN2czZGx5azhvOTZvazBubGdtZDU0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CN9sOyaRT7YVG/giphy.gif" width="75%" height="550" style="object-fit: cover;" alt="Pixel City Chill" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQzbnFxeWZjZzA5ZXRrM2IyN2czZGx5azhvOTZvazBubGdtZDU0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CN9sOyaRT7YVG/giphy.gif" width="65%" height="550" style="object-fit: cover;" alt="Pixel City Chill" />
 </p>
 
 <h2 align="center">
