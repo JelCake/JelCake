@@ -53,6 +53,9 @@
 
 <h3 align="center">🌙 Status</h3>
 
+<p align="center">
+  <img src="https://github.com/JelCake.png" width="120" height="120" style="border-radius: 50%;" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelCake&layout=compact&hide_border=true&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" />
@@ -60,10 +63,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JelCake&theme=dracula&no-bg=true&column=4&margin-w=15&title=Stars,Commits,Repositories,Followers" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/JelCake.png" width="120" height="120" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -82,7 +81,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlueW81MHU2Ym02bm5ubGhlb2t3b2lia3YwcmcxYWpyYjlkYW9wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fvUo27LObB7i/giphy.gif" width="50" height="50" style="border-radius: 50%" alt="The Observer" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlueW81MHU2Ym02bm5ubGhlb2t3b2lia3YwcmcxYWpyYjlkYW9wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fvUo27LObB7i/giphy.gif" width="50" height="50" style="border-radius: 100%" alt="The Observer" />
 </p>
 
 <p align="center">
