@@ -12,8 +12,8 @@
 
 ---
 
-### 💻 Toolset
-<p align="center">Used for small projects and school labs.</p>
+### 💻 Stack
+<p align="center">Used for small projects and school labs:</p>
 
 <p align="center">
   <strong>Languages</strong><br>
@@ -44,4 +44,35 @@
 <p align="center">
   <code>Software Engineering</code> · <code>DSA</code> · <code>DBMS</code> · <code>Computer Networks</code><br>
   <code>System Design</code> · <code>Software Design & Architecture</code> · <code>Operating Systems</code>
+</p>
+
+---
+
+### 🌙 Station Status
+<p align="center">
+  <img src="https://github.com/JelCake.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #9d4edd;" />
+</p>
+
+<p align="center">
+  <strong>Current Proficiency</strong><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelCake&layout=compact&theme=radical&hide_border=true&langs_count=3&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JelCake&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+</p>
+
+<p align="center">
+  <strong>Connect with me</strong><br>
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/JelCake"><img src="https://img.shields.io/badge/GitHub-9d4edd?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3c096c&height=100&section=footer" width="100%" />
 </p>
