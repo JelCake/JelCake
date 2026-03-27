@@ -84,6 +84,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlueW81MHU2Ym02bm5ubGhlb2t3b2lia3YwcmcxYWpyYjlkYW9wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fvUo27LObB7i/giphy.gif" width="50" height="50" style="border-radius: 100%" alt="The Observer" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3c096c&height=100&section=footer" width="100%" />
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3c096c&height=100&section=footer" width="100%" style="display: block; border: none; outline: none;" />
 </p>
