@@ -1,21 +1,15 @@
 <p align="center">
-  <table align="center" style="border-radius: 20px; overflow: hidden; border: none; padding: 0; border-collapse: collapse;">
-    <tr>
-      <td style="border-radius: 20px; overflow: hidden; padding: 0;">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp0bTI1dmMzOHRnYTQxOGt5b2dsdGl4ZXVxMWJ5NXAwdHV6ZzE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyiufcIwTdF35pNIFS/giphy.gif" width="1000" height="450" style="display: block; object-fit: cover;" alt="Pixel City Chill" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp0bTI1dmMzOHRnYTQxOGt5b2dsdGl4ZXVxMWJ5NXAwdHV6ZzE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyiufcIwTdF35pNIFS/giphy.gif" width="100%" height="500" alt="Pixel City Chill" style="border-radius: 20px; border: 2px solid #9d4edd;" />
 </p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=9d4edd&center=true&vCenter=true&width=435&lines=Documenting+the+Journey.;Hello%2C+I'm+JelR.&repeat=false" alt="Hello, I'm JelR." />
 </h1>
+
 <p align="center">
   <em>Building things at my own pace and documenting the journey.</em><br>
   Balancing labs with a deep dive into <strong>Software Architecture & System Internals.</strong>
 </p>
-
 ---
 
 <h3 align="center"> 💻 Stack </h3>
@@ -57,15 +51,11 @@
 <p align="center">
   <img src="https://github.com/JelCake.png" width="100" height="100" style="border-radius: 50%; border: 3px solid #9d4edd;" />
 </p>
-
 <br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelCake&layout=compact&hide_border=false&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&bg_color=0d1117&langs_count=6&border_radius=10&border_color=9d4edd" alt="Top Languages" />
 </p>
-
 <br>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JelCake&theme=tokyonight&color=9d4edd&area=true&hide_border=false&bg_color=0d1117&height=100&border=9d4edd&radius=10" width="100%" alt="Activity Graph" />
 </p>
@@ -83,15 +73,9 @@
 <br>
 
 <p align="center">
-  <table align="center" style="border-radius: 50%; overflow: hidden; border: 3px solid #9d4edd; padding: 0; line-height: 0;">
-    <tr>
-      <td align="center" style="border-radius: 50%; overflow: hidden; padding: 0;">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlueW81MHU2Ym02bm5ubGhlb2t3b2lia3YwcmcxYWpyYjlkYW9wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fvUo27LObB7i/giphy.gif" width="60" height="60" style="display: block; border-radius: 50%;" alt="The Observer" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlueW81MHU2Ym02bm5ubGhlb2t3b2lia3YwcmcxYWpyYjlkYW9wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fvUo27LObB7i/giphy.gif" width="60" height="60" style="border-radius: 50%; border: 3px solid #9d4edd;" alt="The Observer" />
 </p>
 
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3c096c&height=100&section=footer" width="100%" style="display: block; border: none; outline: none;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3c096c&height=100&section=footer" width="100%" />
 </p>
