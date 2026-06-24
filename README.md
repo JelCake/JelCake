@@ -73,9 +73,8 @@
 <p align="center">
   <strong>Let's connect</strong><br>
   <em>Always down to talk tech or share progress.</em><br><br>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/JelCake"><img src="https://img.shields.io/badge/GitHub-9d4edd?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jelani-resosemito-4b4650328"><img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:resosemitoj@gmail.com"><img src="https://img.shields.io/badge/Gmail-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br><br><br>
